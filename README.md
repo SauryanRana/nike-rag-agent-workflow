@@ -8,7 +8,7 @@ This project contains two n8n workflows that implement a **Retrieval-Augmented G
 
 ### 🗂️ 1. PDF Ingestion Workflow
 
-![PDF Ingestion Workflow](assets/pdf%20ingestion%20workflow.png)
+![PDF Ingestion Workflow](assets/pdf ingestion workflow.png)
 
 This workflow:
 - Downloads a Nike earnings PDF report
