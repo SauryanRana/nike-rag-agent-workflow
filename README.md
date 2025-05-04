@@ -8,7 +8,7 @@ This project contains two n8n workflows that implement a **Retrieval-Augmented G
 
 ### 🗂️ 1. PDF Ingestion Workflow
 
-![PDF Ingestion Workflow](assets/pdf ingestion workflow.png)
+![PDF Ingestion Workflow](assets/pdf_ingestion_workflow.png)
 
 This workflow:
 - Downloads a Nike earnings PDF report
@@ -22,7 +22,7 @@ This workflow:
 
 ### 💬 2. Chat-Based Q&A Workflow
 
-![Nike RAG Agent Workflow](assets/nike%20rag%20agent%20workflow.png)
+![Nike RAG Agent Workflow](assets/nike_rag_agent_workflow.png)
 
 This workflow:
 - Uses a **LangChain Agent** with a tool connected to the Pinecone vector store
