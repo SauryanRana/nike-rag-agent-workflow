@@ -12,7 +12,7 @@ This workflow uses LangChain, Pinecone, and OpenAI to answer Nike earnings quest
 1. Import into n8n
 2. Set Pinecone and OpenAI credentials
 3. Trigger via chat to ask questions like:
-   - "What was Nike's revenue in Q4 2023?"
+   - "What was Nike's revenue in Q4 2024?"
 
 ## File
 - `nike-rag-workflow.json`
