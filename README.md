@@ -26,7 +26,7 @@ This workflow:
 
 This workflow:
 - Uses a **LangChain Agent** with a tool connected to the Pinecone vector store
-- Accepts natural language questions (e.g., “What was Nike's gross margin in Q4 2023?”)
+- Accepts natural language questions (e.g., “What was Nike's gross margin in Q4 2024?”)
 - Retrieves relevant context from Pinecone
 - Uses **GPT-4o-mini** to generate accurate, grounded answers
 
